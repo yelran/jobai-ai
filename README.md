@@ -8,8 +8,6 @@
 
 <img width="1920" height="1080" alt="표지" src="https://github.com/user-attachments/assets/fa4c9941-82ce-4194-bf24-f2a444191e19" />
 
-[발표 자료 ppt.pdf](https://github.com/user-attachments/files/32095849/ppt.pdf)
-
 
 ---
 
@@ -192,3 +190,13 @@ jobai-ai/
 
 
 <br>
+
+---
+## 🔗 Appendix
+[발표 자료 ppt.pdf](https://github.com/user-attachments/files/32095882/ppt.pdf)
+
+
+---
+
+
+
