@@ -194,6 +194,7 @@ jobai-ai/
 ---
 ## 🔗 Appendix
 [발표 자료 ppt.pdf](https://github.com/user-attachments/files/32095882/ppt.pdf)
+
 [JobAI_NCS모델.pdf](https://github.com/user-attachments/files/32267119/JobAI_NCS.pdf)
 
 
